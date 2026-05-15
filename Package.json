@@ -1,0 +1,12 @@
+{
+  "name": "aws-node-ecs-app",
+  "version": "1.0.0",
+  "description": "A containerized Node.js application for AWS ECS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
